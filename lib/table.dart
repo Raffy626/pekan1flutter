@@ -37,13 +37,6 @@ class TablePage extends StatelessWidget {
                       DataCell(Text('Designer')),
                     ],
                   ),
-                  DataRow(
-                    cells: [
-                      DataCell(Text('Charlie')),
-                      DataCell(Text('28')),
-                      DataCell(Text('Product Manager')),
-                    ],
-                  ),
                 ],
               ),
             ),
